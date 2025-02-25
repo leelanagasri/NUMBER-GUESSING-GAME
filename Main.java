@@ -2,7 +2,7 @@ package Demo;
 
 import java.util.*;
 
-public class first {
+public class Main {
 	public static void numbergame() {
 		Scanner sc = new Scanner(System.in);
 		int num = 1+(int)(100*Math.random());
